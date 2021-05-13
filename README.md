@@ -1,0 +1,2 @@
+# ImageCompress
+基于libjpeg实现的Android图片压缩库
