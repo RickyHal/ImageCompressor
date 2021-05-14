@@ -51,6 +51,7 @@ or bitmap compress to file
     CompressUtil.compressBitmap(srcBitmap, quality, destPath)
 ```
 
+# Compression effect
 
 * Original picture（2080*4413）5.56MB
 ![Original picture](/results/origin.jpg)

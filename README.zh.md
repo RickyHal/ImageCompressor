@@ -51,6 +51,7 @@ Bitmap压缩得到文件，可用于保存压缩结果
     CompressUtil.compressBitmap(srcBitmap, quality, destPath)
 ```
 
+# 压缩效果
 
 * 原图（2080*4413）5.56MB
 ![原图](/results/origin.jpg)
