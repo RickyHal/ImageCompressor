@@ -35,7 +35,7 @@ bitmap compress to bitmap
 ```
 
 ```kotlin
-   // compress
+   // compress bitmap
    val dstBitmap = CompressUtil.compressBitmap(BaseApplication.gContext, srcBitmap, quality, Bitmap.CompressFormat.JPEG)
 ```
 
