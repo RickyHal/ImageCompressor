@@ -86,7 +86,7 @@ or bitmap compress to file
 * quality5%（2080*4413）129KB 耗时809ms
 ![quality5%](/results/quality5.jpg)
 
-* quality1%（2080*4413）91.8 耗时808ms
+* quality1%（2080*4413）91.8KB 耗时808ms
 ![quality1%](/results/quality1.jpg)
 
 
