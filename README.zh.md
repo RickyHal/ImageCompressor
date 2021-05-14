@@ -1,7 +1,7 @@
 # ImageCompress
 [![](https://jitpack.io/v/RickyHal/ImageCompressor.svg)](https://jitpack.io/#RickyHal/ImageCompressor) ![Workflow result](https://github.com/RickyHal/ImageCompressor/workflows/Check/badge.svg)
 
-一个基于libjpeg实现的Android图片压缩库，可高效压缩手机中的图片 [English](https://github.com/RickyHal/ImageCompressor/README.md)
+一个基于libjpeg实现的Android图片压缩库，可高效压缩手机中的图片 [English](/README.md)
 
 Add it in your root build.gradle at the end of repositories:
 
