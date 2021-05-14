@@ -1,5 +1,5 @@
 # ImageCompress
-[![](https://jitpack.io/v/RickyHal/ImageCompressor.svg)](https://jitpack.io/#RickyHal/ImageCompressor)  ![Workflow result](https://github.com/RickyHal/ImageCompressor/workflows/Check/badge.svg)
+[![](https://jitpack.io/v/RickyHal/ImageCompressor.svg)](https://jitpack.io/#RickyHal/ImageCompressor)   ![Workflow result](https://github.com/RickyHal/ImageCompressor/workflows/Check/badge.svg)
 
 An Android image compression library based on libjpeg can efficiently compress the pictures in mobile phones [Chinese](/README.zh.md)
 
