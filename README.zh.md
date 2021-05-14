@@ -53,40 +53,40 @@ Bitmap压缩得到文件，可用于保存压缩结果
 
 
 * 原图（2080*4413）5.56MB
-![原图](https://github.com/RickyHal/ImageCompressor/results/origin.jpg)
+![原图](/results/origin.jpg)
 
 * 压缩质量90%（2080*4413）1.87MB 耗时977ms
-![压缩质量90%](https://github.com/RickyHal/ImageCompressor/results/quality90.jpg)
+![压缩质量90%](/results/quality90.jpg)
 
 * 压缩质量80%（2080*4413）1.18MB 耗时916ms
-![压缩质量80%](https://github.com/RickyHal/ImageCompressor/results/quality80.jpg)
+![压缩质量80%](/results/quality80.jpg)
 
 * 压缩质量70%（2080*4413）918KB 耗时902ms
-![压缩质量70%](https://github.com/RickyHal/ImageCompressor/results/quality70.jpg)
+![压缩质量70%](/results/quality70.jpg)
 
 * 压缩质量60%（2080*4413）735KB 耗时870ms
-![压缩质量60%](https://github.com/RickyHal/ImageCompressor/results/quality60.jpg)
+![压缩质量60%](/results/quality60.jpg)
 
 * 压缩质量50%（2080*4413）622KB 耗时857ms
-![压缩质量50%](https://github.com/RickyHal/ImageCompressor/results/quality50.jpg)
+![压缩质量50%](/results/quality50.jpg)
 
 * 压缩质量40%（2080*4413）519KB 耗时858ms
-![压缩质量40%](https://github.com/RickyHal/ImageCompressor/results/quality40.jpg)
+![压缩质量40%](/results/quality40.jpg)
 
 * 压缩质量30%（2080*4413）420KB 耗时839ms
-![压缩质量30%](https://github.com/RickyHal/ImageCompressor/results/quality30.jpg)
+![压缩质量30%](/results/quality30.jpg)
 
 * 压缩质量20%（2080*4413）315KB 耗时828ms
-![压缩质量20%](https://github.com/RickyHal/ImageCompressor/results/quality20.jpg)
+![压缩质量20%](/results/quality20.jpg)
 
 * 压缩质量10%（2080*4413）199KB 耗时819ms
-![压缩质量10%](https://github.com/RickyHal/ImageCompressor/results/quality10.jpg)
+![压缩质量10%](/results/quality10.jpg)
 
 * 压缩质量5%（2080*4413）129KB 耗时809ms
-![压缩质量5%](https://github.com/RickyHal/ImageCompressor/results/quality5.jpg)
+![压缩质量5%](/results/quality5.jpg)
 
 * 压缩质量1%（2080*4413）91.8 耗时808ms
-![压缩质量1%](https://github.com/RickyHal/ImageCompressor/results/quality1.jpg)
+![压缩质量1%](/results/quality1.jpg)
 
 
 ## License

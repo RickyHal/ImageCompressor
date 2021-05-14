@@ -53,40 +53,40 @@ or bitmap compress to file
 
 
 * Original picture（2080*4413）5.56MB
-![Original picture](https://github.com/RickyHal/ImageCompressor/results/origin.jpg)
+![Original picture](/results/origin.jpg)
 
 * quality90%（2080*4413）1.87MB 耗时977ms
-![quality90%](https://github.com/RickyHal/ImageCompressor/results/quality90.jpg)
+![quality90%](/results/quality90.jpg)
 
 * quality80%（2080*4413）1.18MB 耗时916ms
-![quality80%](https://github.com/RickyHal/ImageCompressor/results/quality80.jpg)
+![quality80%](/results/quality80.jpg)
 
 * quality70%（2080*4413）918KB 耗时902ms
-![quality70%](https://github.com/RickyHal/ImageCompressor/results/quality70.jpg)
+![quality70%](/results/quality70.jpg)
 
 * quality60%（2080*4413）735KB 耗时870ms
-![quality60%](https://github.com/RickyHal/ImageCompressor/results/quality60.jpg)
+![quality60%](/results/quality60.jpg)
 
 * quality50%（2080*4413）622KB 耗时857ms
-![quality50%](https://github.com/RickyHal/ImageCompressor/results/quality50.jpg)
+![quality50%](/results/quality50.jpg)
 
 * quality40%（2080*4413）519KB 耗时858ms
-![quality40%](https://github.com/RickyHal/ImageCompressor/results/quality40.jpg)
+![quality40%](/results/quality40.jpg)
 
 * quality30%（2080*4413）420KB 耗时839ms
-![quality30%](https://github.com/RickyHal/ImageCompressor/results/quality30.jpg)
+![quality30%](/results/quality30.jpg)
 
 * quality20%（2080*4413）315KB 耗时828ms
-![quality20%](https://github.com/RickyHal/ImageCompressor/results/quality20.jpg)
+![quality20%](/results/quality20.jpg)
 
 * quality10%（2080*4413）199KB 耗时819ms
-![quality10%](https://github.com/RickyHal/ImageCompressor/results/quality10.jpg)
+![quality10%](/results/quality10.jpg)
 
 * quality5%（2080*4413）129KB 耗时809ms
-![quality5%](https://github.com/RickyHal/ImageCompressor/results/quality5.jpg)
+![quality5%](/results/quality5.jpg)
 
 * quality1%（2080*4413）91.8 耗时808ms
-![quality1%](https://github.com/RickyHal/ImageCompressor/results/quality1.jpg)
+![quality1%](/results/quality1.jpg)
 
 
 ## License
