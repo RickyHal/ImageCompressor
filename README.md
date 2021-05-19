@@ -1,7 +1,10 @@
 # ImageCompress
-[![](https://jitpack.io/v/RickyHal/ImageCompressor.svg)](https://jitpack.io/#RickyHal/ImageCompressor)   ![Workflow result](https://github.com/RickyHal/ImageCompressor/workflows/Check/badge.svg)
+[![](https://jitpack.io/v/RickyHal/ImageCompressor.svg)](https://jitpack.io/#RickyHal/ImageCompressor)
 
-An Android image compression library based on libjpeg can efficiently compress the pictures in mobile phones [Chinese](/README.zh.md)
+English | [中文](/README.zh.md)
+An Android image compression library based on libjpeg can extremely compress the image size while ensuring the quality. See the following for the specific compression effect.
+
+For the implementation principle, see[blog](https://juejin.cn/post/6844904014442659853#heading-6)
 
 Add it in your root build.gradle at the end of repositories:
 
