@@ -2,6 +2,7 @@
 [![](https://jitpack.io/v/RickyHal/ImageCompressor.svg)](https://jitpack.io/#RickyHal/ImageCompressor)
 
 中文 | [English](/README.md)
+
 一个基于libjpeg实现的Android图片压缩库，可在保证质量的情况下极致压缩图片大小，具体压缩效果见下文。
 
 实现原理见[这位大佬的博客](https://juejin.cn/post/6844904014442659853#heading-6)

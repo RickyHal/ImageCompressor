@@ -2,6 +2,7 @@
 [![](https://jitpack.io/v/RickyHal/ImageCompressor.svg)](https://jitpack.io/#RickyHal/ImageCompressor)
 
 English | [中文](/README.zh.md)
+
 An Android image compression library based on libjpeg can extremely compress the image size while ensuring the quality. See the following for the specific compression effect.
 
 For the implementation principle, see[blog](https://juejin.cn/post/6844904014442659853#heading-6)
