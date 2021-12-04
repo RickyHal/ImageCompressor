@@ -10,7 +10,7 @@ import org.jetbrains.annotations.Nullable;
 import java.io.File;
 
 /**
- * @author haiyanghou
+ * @author Rikcy Hal
  * @date 2021/5/13
  */
 public class CompressUtil {
