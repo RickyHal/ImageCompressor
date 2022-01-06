@@ -58,7 +58,7 @@ Bitmap压缩得到文件，可用于保存压缩结果
 # 压缩效果
 
 * 原图（2080*4413）5.56MB
-![原图](/results/origin.jpg)
+<img src="/results/origin.jpg" width="260"/>
 
 * 压缩质量90%（2080*4413）1.87MB 耗时977ms
 ![压缩质量90%](/results/quality90.jpg)
